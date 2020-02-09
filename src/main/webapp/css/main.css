@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+*{
+ margin: 0px;
+ padding: 0px;
+  /*background: black;  */
+ background: white;
+  
+}
+
+.container{
+	/*max-width: 1000px;*/
+	max-width: 960px;
+	
+	margin: 0 auto;
+	/*background: #f9f9f9;*/
+	/*font-size: 24px;*/
+	/*background-color: linear-gradient(black, green, green);*/
+	/*color: white;*/
+	color: #5BC2E7;
+	font-size: 15.5px;
+	line-height: 1.5;
+	padding: 25px;
+}
+
+.parallax{
+	background: url('/img/tiger-face-on-black2.jpg') no-repeat center;
+	background-size: 960px;
+	background-attachment: fixed;
+	height: 200px;
+}
+
+.enumeration{
+	/*background: url('img/gerberna.jpeg') no-repeat center;	*/
+	/*background: url('img/jarbas_target_discovery.png');*/
+	/*background-size: 60px;*/
+	/*background-attachment: fixed;*/
+	/*width: 200px;*/
+	/*height: 100px;*/
+}"src/main/webapp/css/main.css"
+
+.white {
+    color: #ffff;
+    font-size: inherit;
+    margin: 0 0 0 1px;
+}
